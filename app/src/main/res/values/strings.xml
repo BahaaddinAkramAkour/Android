@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mid_31918001037_Baha</string>
+    <string name="text_header">Message Received</string>
+    <string name="mid1">Mid1</string>
+    <string name="hint_enter_string">Hint:enter string</string>
+    <string name="send_string">Send string</string>
+</resources>
